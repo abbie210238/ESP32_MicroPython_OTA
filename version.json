@@ -1,5 +1,5 @@
 {
   "version": "0.0.5",
   "firmware_url": "https://raw.githubusercontent.com/abbie210238/ESP32_MicroPython_OTA/main/main.py",
-  "commit": "Automatic OTA test 0.0.5"
+  "commit": "Add web server and LED control"
 }
