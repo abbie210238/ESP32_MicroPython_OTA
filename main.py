@@ -13,7 +13,7 @@ import requests
 SSID = "labor"
 PASSWORD = "98668800"
 
-CURRENT_VERSION = "0.0.1"
+CURRENT_VERSION = "0.0.3"
 
 VERSION_URL = (
     "https://raw.githubusercontent.com/"
