@@ -1,0 +1,5 @@
+{
+  "version": "0.0.1",
+  "firmware_url": "https://raw.githubusercontent.com/abbie210238/ESP32_MicroPython_OTA/main/main.py",
+  "commit": "Initial MicroPython release"
+}
