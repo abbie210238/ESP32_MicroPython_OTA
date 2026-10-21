@@ -10,8 +10,8 @@ import requests
 # =========================
 # 設定
 # =========================
-SSID = "a@iPhone"
-PASSWORD = "199808300"
+SSID = "labor"
+PASSWORD = "98668800"
 
 CURRENT_VERSION = "0.0.3"
 
