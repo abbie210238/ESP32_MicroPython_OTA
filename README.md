@@ -1,0 +1,2 @@
+# ESP32_MicroPython_OTA
+自動檢查更新版本_MicroPython形式
